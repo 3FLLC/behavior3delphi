@@ -1,11 +1,11 @@
-# behavior3delphi
-**behavior3delphi** is a [**Behavior3**](http://behavior3.com) client library for Delphi (Behavior Trees for Delphi) based on [**behavior3js**](https://github.com/behavior3/behavior3js/).
+# behavior3MP2
+**behavior3MP2** is a [**Behavior3**](http://behavior3.com) client library for MP2 (Behavior Trees for MP2) based on [**behavior3delphi**](https://github.com/Dennis1000/behavior3delphi/).
 
 ## Contents
 
 ### Core Classes
 
-This library includes the following core structures
+This fork includes the following core structures
 
 - **BehaviorTree**: the structure that represents a Behavior Tree
 - **Blackboard**: represents a "memory" in an agent and is required to to run a `BehaviorTree`
@@ -49,4 +49,5 @@ Either include all units (incl. those found in the `Actions/Composites/Core/Deco
 
 ## Copyright and license
 
-Copyright 2016 by Dennis D. Spreen <dennis@spreendigital.de>. Code released under [the MIT license](https://github.com/Dennis1000/behavior3delphi/blob/master/LICENSE).
+ORIGINAL: Copyright 2016 by Dennis D. Spreen <dennis@spreendigital.de>. Code released under [the MIT license](https://github.com/Dennis1000/behavior3delphi/blob/master/LICENSE).
+Copyright 2016 by MP Solutions, LLC.
